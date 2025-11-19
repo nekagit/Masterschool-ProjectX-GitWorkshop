@@ -1,0 +1,3 @@
+# Keine externen Abhängigkeiten erforderlich
+# Python 3.7+ wird benötigt
+
