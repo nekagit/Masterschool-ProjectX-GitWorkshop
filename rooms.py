@@ -1,6 +1,7 @@
 """
 RÄUME-SYSTEM
 ============
+GRUPPE 7
 
 AUFGABE FÜR STUDENTEN:
 ----------------------

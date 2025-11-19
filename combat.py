@@ -1,6 +1,7 @@
 """
 KAMPFSYSTEM
 ===========
+GRUPPE 8
 
 AUFGABE FÜR STUDENTEN:
 ----------------------

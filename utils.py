@@ -1,6 +1,7 @@
 """
 HILFSFUNKTIONEN
 ===============
+GRUPPE 2
 
 AUFGABE FÜR STUDENTEN:
 ----------------------

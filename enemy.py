@@ -1,6 +1,7 @@
 """
 GEGNER-KLASSE
 =============
+GRUPPE 5
 
 AUFGABE FÜR STUDENTEN:
 ----------------------

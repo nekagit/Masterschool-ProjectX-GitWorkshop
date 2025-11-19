@@ -1,6 +1,7 @@
 """
 SPIELER-KLASSE
 ==============
+GRUPPE 4
 
 AUFGABE FÜR STUDENTEN:
 ----------------------

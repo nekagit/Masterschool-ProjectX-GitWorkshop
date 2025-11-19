@@ -1,6 +1,7 @@
 """
 HAUPTSPIEL-DATEI
 ================
+GRUPPE 10
 
 AUFGABE FÜR STUDENTEN:
 ----------------------

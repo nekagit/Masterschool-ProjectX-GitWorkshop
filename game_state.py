@@ -1,6 +1,7 @@
 """
 SPIELZUSTAND
 ============
+GRUPPE 3
 
 AUFGABE FÜR STUDENTEN:
 ----------------------

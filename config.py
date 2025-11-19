@@ -1,6 +1,7 @@
 """
 KONFIGURATION
 =============
+GRUPPE 1
 
 AUFGABE FÜR STUDENTEN:
 ----------------------

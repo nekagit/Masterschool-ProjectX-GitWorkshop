@@ -1,6 +1,7 @@
 """
 STORY-TEXTE
 ===========
+GRUPPE 9
 
 AUFGABE FÜR STUDENTEN:
 ----------------------

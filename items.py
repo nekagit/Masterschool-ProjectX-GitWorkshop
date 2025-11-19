@@ -1,6 +1,7 @@
 """
 ITEMS-SYSTEM
 ============
+GRUPPE 6
 
 AUFGABE FÜR STUDENTEN:
 ----------------------
